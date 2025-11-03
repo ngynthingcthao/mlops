@@ -1,4 +1,4 @@
-🌻Bài thực hành Triển khai và vận hành các mô hình học máy🌿
+#🌻Bài thực hành Triển khai và vận hành các mô hình học máy🌿
 Kho lưu trữ này bao gồm mã nguồn của các bài tập trong khóa học Triển khai và vận hành các mô hình học. Mỗi thư mục tương ứng với một tuần học, chứa nội dung và bài tập thực hành liên quan.
 
 🐚Cấu trúc dự án
