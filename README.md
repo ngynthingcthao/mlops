@@ -8,14 +8,14 @@ Mỗi thư mục tương ứng với một tuần học, chứa nội dung, tài
 ## 🐚 Cấu trúc dự án  
 
 🎍**Tuần 1**
-  🌞 Tạo Github repos  
-  🌝 Bài thực hành 01  
+  \n🌞 Tạo Github repos  
+  \n🌝 Bài thực hành 01  
 🎄**Tuần 2**
-  🌝 Bài thực hành 02 
+  \n🌝 Bài thực hành 02 
 🌱**Tuần 3**  
-  🌝 Bài thực hành 03 
+  \n🌝 Bài thực hành 03 
 🌵**Tuần 4** 
-  ...  
+  \n...  
 
 ## 🍻 Thông tin liên hệ  
 
